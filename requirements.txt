@@ -1,0 +1,5 @@
+gunicorn
+## Other Libraries
+requests
+pandas
+boto3
